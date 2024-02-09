@@ -12,7 +12,7 @@ function Contact() {
         <div className=' flex items-center gap-2 text-[20px]'>
           <h1 className=''><ion-icon name="logo-linkedin"></ion-icon></h1>
 
-          <a className='flex items-center gap-5' href='https://www.linkedin.com/in/mahendra-kumar-934068297/'>Linkedin
+          <a className='flex items-center gap-5' href='https://www.linkedin.com/in/mahendra-kumar-44627a243/'>Linkedin
           </a>
 
         </div>
